@@ -1,0 +1,11 @@
+#main_menu {
+    background-color: aqua;
+    height: 800px;
+}
+
+#options button {
+    margin: 10px;
+    height: 100px;
+    width: 300px;
+    background-color: rgba(107, 230, 124, 0.699);
+}

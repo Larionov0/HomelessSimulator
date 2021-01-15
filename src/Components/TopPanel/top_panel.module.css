@@ -1,0 +1,24 @@
+#top_panel {
+    background-color: aliceblue;
+    display: flex;
+}
+
+img.bomj {
+    width: 10%;
+}
+
+#stats {
+    text-align: left;
+}
+
+.stat {
+    font-size: large;
+    margin: 20px;
+}
+
+.things {
+    display: flex;
+}
+.things p {
+    margin-right: 10px;
+}
